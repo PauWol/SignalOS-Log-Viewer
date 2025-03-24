@@ -12,7 +12,7 @@ SignalOS Log Viewer is a simple and efficient log file viewer designed for Signa
 You have two options to install SignalOS Log Viewer:
 
 ### Option 1: Download Precompiled Executable
-1. Download the latest precompiled `.exe` from the [Releases](https://github.com/pauwol/SignalPi/releases).
+1. Download the latest precompiled `.exe` from the [Releases](https://github.com/pauwol/SignalOS-Log-Viewer/releases).
 2. Run the executable (`LogViewer.exe`). No installation required!
 
 ### Option 2: Compile From Source
@@ -20,11 +20,11 @@ To build SignalOS Log Viewer from source, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/pauwol/SignalPi.git
+   git clone https://github.com/pauwol/SignalOS-Log-Viewer.git
    ```
 2. Navigate into the project directory:
    ```sh
-   cd SignalPi/logviewer
+   cd SignalOS-Log-Viewer
    ```
 3. Install PyInstaller if you haven’t already:
    ```sh
@@ -41,5 +41,5 @@ To build SignalOS Log Viewer from source, follow these steps:
 - Scroll and analyze logs with ease.
 
 ## License
-This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the [LICENSE](https://github.com/pauwol/SignalOS-log-viewer/LICENSE) file for details.
+This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**. See the [LICENSE](https://github.com/pauwol/SignalOS-Log-Viewer/LICENSE) file for details.
 
